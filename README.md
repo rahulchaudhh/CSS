@@ -1,7 +1,7 @@
-# CSS
+C# CSS
 Daily CSS practice — layouts, components, and styling exercises.
 
-# Background DAY01
+# Background properties DAY01
 
 This folder contains CSS practice exercises related to **background properties**.
 
@@ -17,9 +17,14 @@ This folder contains CSS practice exercises related to **background properties**
 
 ## 🎯 Learning Objectives
 
-- Apply background colors, gradients, and images
-- Learn CSS properties like `background-color`, `background-image`, `background-repeat`, `background-size`
-- Create visually appealing sections with backgrounds
+- Apply background colors to elements (`h1`, `p`, `section`)  
+- Use **background images** for sections with `background-image`  
+- Control background behavior using:
+  - `background-size` (cover, contain)  
+  - `background-repeat` (no-repeat, repeat)  
+  - `background-position` (top, bottom, center)  
+  - `background-attachment` (fixed, scroll)  
+- Combine background images with other CSS properties like height, colors, and typography
 
 ---
 
