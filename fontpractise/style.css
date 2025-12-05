@@ -1,0 +1,18 @@
+@font-face {
+    font-family: newfont;
+    src: url("./FortalesiaPlain_PERSONAL_USE_ONLY.otf");
+}
+#p1{
+
+    font-family: "Nabla", system-ui;
+font-family: newfont;
+  color: blue;
+  font-style: italic;
+  font-size: 50px;
+}
+
+
+
+#sec1{
+    background-color: blue;
+}

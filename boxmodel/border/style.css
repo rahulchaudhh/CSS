@@ -1,0 +1,82 @@
+
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    border: 6px solid red;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    /* border-width: 5px ;
+    border-style: dashed;
+    border-color: green; */
+/* 
+    border-bottom: 2px dotted blue;
+
+    border-top: 3px solid red; */
+
+
+    /* border-radius: 20px; */
+    /* border-top-left-radius: 30px; */
+
+
+    /* top-left& bottom-right topright&bottomleft */
+    /* border-radius: 20px 40px; */
+
+
+
+    /* border-radius: 10px 20px 30px; */
+
+
+    /* border-radius: 10px 20px 30px 40px; */
+    /* padding: 10px; */
+    /* padding-top: 30px;
+    padding-right: 40px; */
+
+
+    /* padding: 10px 20px; */
+
+    /* padding: 10px 20px 30px; */
+
+    /* padding: 10px 20px 30px 40px; */
+
+
+    /* margin: 50px; */
+    
+    /* margin: 30px 40px; */
+
+    /* margin-bottom: 40px; */
+    /* margin-bottom: 1px; */
+
+    
+
+
+
+}
+
+p{
+    margin-top: 10px;
+    border: 5px solid rgb(63, 31, 126);
+    border-radius: 30px;
+    padding: 20px;
+}
+
+
+.box{
+    
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border: 5px solid green;
+    padding: 10px;
+    /* border-radius: 30% 70% 70% 30% / 80% 76% 24% 20% ; */
+    margin: 5px auto;
+    
+}

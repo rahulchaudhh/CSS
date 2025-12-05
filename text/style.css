@@ -1,0 +1,44 @@
+/* h1 {
+    text-align: center;
+    /* text-decoration-line: line-through;
+    text-decoration-color: red;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 10px; */
+
+    /* text-shadow: -2px -2px 10px red; */
+
+
+/* }
+
+p {
+    text-align: justify;
+    text-transform: capitalize;
+
+    letter-spacing: 0.7px;
+    word-spacing: 10px;
+    line-height:1.5;
+    text-indent: 200px;
+    /* white-space: wrap;
+    /* text-decoration: underline red double 5px; */
+
+
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 2px 2px 5px palevioletred;
+    text-transform: uppercase;
+
+}
+
+#name{
+    text-decoration: underline;
+    text-decoration-color: rgb(202, 29, 29);
+ text-decoration-style:wavy ;
+ text-align: center;
+
+}
+.upp{
+    text-align: center;
+    text-transform: uppercase;
+}

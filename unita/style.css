@@ -1,0 +1,21 @@
+
+
+
+
+.parent{
+    height: 30px;
+    width: 100%;
+    background-color: red;
+}
+
+.child{
+    height: 30px;
+    background-color: green;
+    width: 50%;
+}
+
+.grandchild{
+    height: 30px;
+    background-color: blue;
+    width: 50%;
+}

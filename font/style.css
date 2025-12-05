@@ -1,0 +1,25 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+US+Trad+Guides&display=swap');
+
+@font-face {
+    font-family:merofont ;
+    src: url('./Amore\ Christmas.otf');
+}
+
+p{
+
+    /* font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    /* font-family: "Playwrite US Trad Guides", cursive; */
+    /* font-family: merofont; */
+
+    /* font-weight:bold; */
+
+    font-style: oblique;
+    font-size: 40px;
+}
+
+h1{
+    font-weight: 300;
+    font-variant: small-caps;
+}

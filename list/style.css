@@ -1,0 +1,15 @@
+/* ol>p{
+    color: red;
+}
+
+p{
+    color: blue;
+} */
+
+ol+p{
+    color: green;
+}
+
+ol li ol p{
+    color: red;
+}

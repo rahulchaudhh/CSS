@@ -1,0 +1,39 @@
+h1 {
+    background-color: brown;
+    color: blueviolet;
+}
+
+section {
+    background-color: rgb(147, 198, 243);
+    color: rgb(212, 65, 70);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+
+}
+
+#sec1 {
+    background-image: url(https://images.pexels.com/photos/8753541/pexels-photo-8753541.jpeg);
+    background-attachment: fixed;
+
+}
+
+#sec2 {
+
+    background-image: url(https://images.pexels.com/photos/5914510/pexels-photo-5914510.jpeg);
+background-attachment: fixed;
+
+
+}
+
+#sec3 {
+    background-image: url(https://images.pexels.com/photos/5914466/pexels-photo-5914466.jpeg);
+
+}
+
+#sec4 {
+    background-image: url(https://images.pexels.com/photos/29252614/pexels-photo-29252614.jpeg);
+
+background-attachment: fixed;
+}

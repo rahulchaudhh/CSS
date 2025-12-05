@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+#box {
+    border: 2px solid red;
+    width: 50%;
+    margin: auto;
+    height: 200px;
+    /* white-space: nowrap; */
+    overflow: auto;
+}
