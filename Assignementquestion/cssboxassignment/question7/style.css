@@ -1,0 +1,16 @@
+h1{
+    border: 10px solid red;
+    margin-left: 60px;
+    margin-right: 40px;
+    padding: 20px;
+
+}
+
+p{
+       border: 10px solid blue;
+    margin-left: 60px;
+    margin-right: 40px;
+    padding: 20px;
+
+    
+}

@@ -1,0 +1,15 @@
+.parent{
+    border: 2px solid red;
+    height: 100px;
+    width: 50%;
+}
+.child{
+  border: 2px solid rgb(76, 41, 146);
+    height: 100px;
+    width: 50%;
+}
+.inner{
+    border: 2px solid rgb(59, 175, 46);
+    height: 100px;
+    width: 50%;
+}

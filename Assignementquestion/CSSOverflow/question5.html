@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overflow Hidden Image</title>
+</head>
+<style>
+    .container {
+      
+        width: 250px;
+        height: 250px; 
+        overflow: hidden; 
+        border: 2px solid #333;
+        margin: 20px;
+    }
+
+    .container img {
+       
+        width: 100%; 
+        height: 400px; 
+        
+      
+        object-fit: cover; 
+    }
+</style>
+<body>
+    <h2>Image with overflow hidden</h2>
+    <div class="container">
+        <!-- Make sure your image path is correct -->
+        <img src="../1749546412138.jpg" alt="example image">
+    </div>
+    <p>The image above is 400x600px, but only the top 250x250px area is visible due to <code>overflow: hidden</code> on the container.</p>
+</body>
+</html>

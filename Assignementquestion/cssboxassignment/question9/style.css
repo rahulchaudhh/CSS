@@ -1,0 +1,12 @@
+h1{
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px;
+    background-color: blueviolet;
+
+}
+.padded-box {
+    padding: 20px;
+    border: 5px solid black; /* A visible border to show where the background stops */
+    background-color: lightyellow; /* The color you want inside the padding */
+}

@@ -1,0 +1,6 @@
+h1{
+    border-top: dashed 4px;
+    border-top:none ;
+    border-bottom: dotted 3px;
+    border-left: double 6px;
+}
